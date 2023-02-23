@@ -1,4 +1,1 @@
-L = ['dog','cat','monkey']
-for x in L:
-    print('A ' + x + ' would make a great pet')
-print('Any of these animals would make a great pet!\n')
+print('Hello, world!')
